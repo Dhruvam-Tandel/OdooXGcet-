@@ -17,17 +17,29 @@ Dayflow is a modern, full-stack Human Resource Management System (HRMS) designed
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### Employee Dashboard
 Real-time insights into your work habits and attendance consistency.
-![Employee Dashboard](screenshots/Screenshot 2026-01-03 162315.png)
+
+<p align="center">
+  <img src="screenshots/1.png" width="800"/>
+</p>
 
 ### Admin Dashboard
 Manage your workforce efficiently.
-![Admin Dashboard](screenshots/Screenshot 2026-01-03 162620.png)
+
+<p align="center">
+  <img src="screenshots/2.png" width="800"/>
+</p>
 
 ### Salary Management (Admin)
 Detailed, auto-calculating salary structure configuration.
-![Salary Management](screenshots/salary_management.png)
+
+<p align="center">
+  <img src="screenshots/3.png" width="800"/>
+</p>
+
 
 ## 🛠️ Tech Stack
 
