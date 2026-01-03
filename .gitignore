@@ -1,0 +1,34 @@
+# Dependencies
+node_modules
+.pnp
+.pnp.js
+
+# Testing
+coverage
+
+# Production
+build
+dist
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Misc
+.DS_Store
+.vscode
+.idea
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Uploads (keep the folder but not the files, usually)
+# If you want to keep the uploaded user images in repo (not recommended for large binaries), remove this.
+# But for a real app, you ignore uploads.
+server/uploads/*
+!server/uploads/.gitkeep
